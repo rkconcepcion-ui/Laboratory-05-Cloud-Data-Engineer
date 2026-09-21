@@ -1,4 +1,4 @@
-# Storage Types Research
+# Storage Types Research 
 
 ## Comparison of Cloud Storage Types
 
